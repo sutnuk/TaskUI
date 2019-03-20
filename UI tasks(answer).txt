@@ -1,0 +1,61 @@
+1.Yes, the buttons should be gray, because they are disabled;
+
+2.Yes, after press button "send" should be dialog menu;
+
+3.Yes, you can't anything to write, because it's disabled;
+
+4.After press to him;
+
+5.This implementation is uncorrect, because you can't choose your gender.There should be 2 raddioButtons.
+
+6.To make this part of the screen correct, you need to do 2 radiobutton:
+
+- "no thanks"*All Checkbox.Enabled = FALSE;
+
+- for checkboxList*CheckCount == 2 then disabled another checkbox, !=2 & no "thanks"!=TRUE no PASS;
+
+7.There should be 2 raddioButtons. If not accept do not pass it next;
+
+8.Yes, raddioButton Portrait.Enabled = true(Default),than raddioButton Landscape.Enabled = false;
+
+9.No, there should be one CheckBox "Don't show this again";
+
+10.No, these checkBoxes should be in column;
+
+11.Mixed-state has 3 status: default, checked(yes) and checked off(no). Current status - default;
+
+12.No, we must use progressbar instead of checkboxes;
+
+13.No,because there should be button.
+
+14.No, should be additional verification.
+
+15.No, because not nice for users open new display windows over current.
+
+16.Yes, when radio button "Highest restriction" active - must be checked all blocking categories.
+
+17.No, should be only two radio buttons.Example:
+
+Always open pop-ups:
+
+RadioButton1 - "In a new window"
+
+RadioButton2 - "In a new tab".
+
+18.Delete words "Align" twice and "Alignment"
+
+19.No, these radio buttons should be in column;
+
+20.No, it isn't right. This editable text boxes and drop-down list should be enabled when you checked on radio button "Pages" and radio button "Selection" should be deleted.
+
+21.ListBox is a element GUI, that allows select one or more items from list container. All list available on the start.
+
+DropDown is a element Gui, that allows select one item from list container. List items wiil be availible after press button down.
+
+ComboBox is a combination of a single line Text and DropDown list or ListBox.
+
+There are two types of ComboBox: with ListBox or with DropDown list.
+
+22.We must press to the button "down" in the right corner and selected  number 5 from list container;
+
+23.Must be ComboBox with EditDbox;
